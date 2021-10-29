@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Simulasi Pinjaman Uang</string>
+    <string name="primary_color">Primary color</string>
+    <string name="button">Button</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+    <string name="cost_of_service" />
+
+    <string name="durasi_pinjam">Pilih Durasi</string>
+    <string-array name="list_periode">
+        <item>Pilih Durasi Pinjam</item>
+        <item>Per Hari</item>
+        <item>Per Minggu</item>
+        <item>Per Bulan</item>
+    </string-array>
+
+    <string name="how_was_the_service">Ketentuan Peminjaman :</string>
+    <string name="amazing_service">Biaya Layanan 5%</string>
+    <string name="good_service">Bunga 3,75% per bulan</string>
+    <string name="ok_service">Per hari bunga rendah</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+
+    <string name="data_pinjam">Data Peminjam</string>
+    <string name="nama">Nama</string>
+    <string name="NomorID">Nomor ID</string>
+    <string name="berikutnya">Berikutnya</string>
+    <string name="todo">TODO</string>
+</resources>
